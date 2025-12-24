@@ -1,4 +1,4 @@
-Just my personal workflow, consisting of:
+Just my personal ComfyUI workflow, consisting of:
 
 * **Wan 2.2 14B Architecture**: High-Noise and Low-Noise Model.
 * **4-Step Turbo Generation**: accelerated using the `Lightx2v` 4-step LoRA for rapid inference.
