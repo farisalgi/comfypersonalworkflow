@@ -7,3 +7,7 @@ Just my personal ComfyUI workflow, consisting of:
     * **Sharpening**: Contrast Adaptive Sharpening `ImageCASharpening+` for detail enhancement.
     * **Upscaling**: 4x upscale using the `Remacri` model.
     * **Interpolation**: RIFE TensorRT implementation for faster and smooth frame rate doubling.
+
+![Workflow Diagram](workflow.png)
+
+Tested on RTX 3090 (24GB VRAM) and 64GB RAM.
